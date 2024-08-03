@@ -2,4 +2,4 @@ archive
 node_modules
 package-lock.json
 /dist/new.txt
-/src/icon.png
+/src
