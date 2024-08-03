@@ -7,3 +7,4 @@
 
 #Ignore txt files inside of folder
 text/*.txt
+/new.txt
